@@ -1,6 +1,6 @@
-# SmartTask: A Smart To-Do List GUI with Canvas Integration
+# A Smart To-Do List GUI with Canvas Integration
 
-SmartTask is a Python-based productivity assistant built with Tkinter that allows users to manage tasks through a clean graphical interface. Designed for students and busy professionals, SmartTask makes it easy to add, edit, and complete tasks — and includes a unique integration with the University of Maryland's ELMS (Canvas) system to automatically import assignments.
+The Smart To-Do List is a Python-based productivity assistant built with Tkinter that allows users to manage tasks through a clean graphical interface. Designed for students and busy professionals, SmartTask makes it easy to add, edit, and complete tasks — and includes a unique integration with the University of Maryland's ELMS (Canvas) system to automatically import assignments.
 
 ### Features
 
